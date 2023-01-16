@@ -4,8 +4,40 @@ header{
     background-size: 300px;
 }
 
+main{
+    margin-left: 0%;
+}
+
 .logo-booleaner{
     width: 150px;
     padding-top: 20px;
     padding-bottom: 5px;
+}
+
+h1{
+    font-size: 30px;
+    margin-bottom: 0%;
+}
+
+h5{
+    margin-top: 0%;
+    color: gray;
+}
+
+.descrizione-img{
+    margin-top: 0px;
+}
+
+span{
+    color: #31afe7;
+}
+
+.intestazione{
+    color: white;
+    background-color: #20a9e5;
+    border-spacing: 0;
+}
+
+.corpo1{
+    background-color: aqua;
 }
