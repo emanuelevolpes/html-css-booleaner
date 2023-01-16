@@ -28,16 +28,27 @@ h5{
     margin-top: 0px;
 }
 
+
 span{
     color: #31afe7;
 }
 
 .intestazione{
     color: white;
-    background-color: #20a9e5;
+    background-color: #20a9e5 ;
+}
+
+td{
+    border: 0;
+    border-collapse: collapse;
     border-spacing: 0;
 }
 
 .corpo1{
     background-color: aqua;
+}
+
+h6{
+    font-size: 15px;
+    color: gray;
 }
