@@ -1,91 +1,85 @@
-header{
+header {
     background-image: url(/img/pattern.png);
     background-color: #4ea0ff;
     background-size: 300px;
 }
 
-body{
+body {
     margin: 0;
 }
 
-main{
-    margin-left: 0%;
+main {
+    max-width: 1200px;
+    margin: 0 auto;
 }
 
-.logo-booleaner{
+.logo-booleaner {
     width: 150px;
     padding-top: 20px;
     padding-bottom: 0;
 }
 
-h1{
-    font-size: 30px;
+h1 {
+    font-size: 50px;
     margin-bottom: 0%;
 }
 
-h2{
+h2 {
     margin-top: 0%;
     color: gray;
     font-size: 15px;
 }
 
-.descrizione-img{
+.descrizione-img {
     margin-top: 0px;
 }
 
-ul{
-    padding-left: 20px;
+ul {
+    padding: 0;
+    list-style-position: inside;
 }
 
 
-span{
+span {
     color: #31afe7;
 }
 
-.intestazione{
+.intestazione {
     color: white;
-    background-color: #20a9e5 ;
+    background-color: #20a9e5;
 }
 
-table{
+table {
     border-collapse: collapse;
-}
-
-.colonna-1{
-    text-align: left;
-    padding-right: 100px;
-}
-
-.colonna-2{
-    text-align: left;
-    padding-right: 100px;
-}
-
-.colonna-3{
     text-align: left;
 }
 
-th{
+
+.colonna-3 {
+    width: 50%;
+}
+
+th {
     border: 0;
     border-spacing: 0;
 }
 
-td{
+td {
     border: 0;
     border-spacing: 0;
 }
 
-.corpo1{
+.corpo1 {
     background-color: #b1e5f2;
 }
 
-h3{
+h3 {
     font-size: 15px;
     color: gray;
     margin-bottom: 5px;
 }
 
-h4{
+h4 {
     margin-top: 0;
     margin-bottom: 5px;
     color: white;
@@ -94,9 +88,10 @@ h4{
     height: 150px;
     width: 200px;
     font-size: 20px;
+    padding-left: 10px;
 }
 
-h5{
+h5 {
     color: white;
     background-image: url(../img/graph.jpg);
     background-position: center;
@@ -104,4 +99,11 @@ h5{
     width: 200px;
     font-size: 20px;
     margin-top: 5px;
+    padding-left: 10px;
+
+}
+
+footer {
+    max-width: 1200px;
+    margin: 0 auto;
 }
